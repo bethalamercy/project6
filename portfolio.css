@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+header{
+    background-color:aqua;
+    color:black;
+    padding:20px;
+}
+nav ul li{
+    display:inline;
+}
+nav ul li a{
+    padding:20px;
+    color:blue;
+    font-size:20px;
+    text-decoration:none;
+}
+#Home img{
+    heigth:200px;
+    width:200px;
+    border-radius: 70px;
+}
+#Bio {
+    margin-right: 180px;
+    margin-left: 180px;
+}
+#PortFolio{
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 50px;
+    padding:20px;
+}
+li
+{
+    display:inline;
+    padding:10px;
+}
+footer{
+    border-style: groove;
+    border-color:lightblue;
+    background-color: black;
+    color:azure;
+    padding:30px;
+}
